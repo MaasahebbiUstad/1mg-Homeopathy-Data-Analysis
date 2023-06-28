@@ -25,4 +25,14 @@
 
 5. Gain a competitive advantage and achieve sustainable growth.
 
+**Dashboard:**
+
+![image](https://github.com/ustadmaas/1mg-Homeopathy-Data-Analysis/assets/137813961/d983932b-e6f0-4472-9d0c-748b599caa6f)
+
+**Learnings:**
+
+1. Web Scrapping
+2. New Python Libraries (Beautiful Soup and Selenium)
+3. Time and Team Management
+
    
