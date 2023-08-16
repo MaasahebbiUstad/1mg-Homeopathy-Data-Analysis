@@ -2,6 +2,7 @@
 #Capstone Project
 
 ![1mg](https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/29792c90-56dd-4c9b-b47b-cc912948c3e9)
+
 (Group Project with Three members executed in Seven days.
 
 **Why this Project?**
@@ -26,7 +27,7 @@
 
 **Dashboard:**
 
-![image](https://github.com/ustadmaas/1mg-Homeopathy-Data-Analysis/assets/137813961/d983932b-e6f0-4472-9d0c-748b599caa6f)
+![image](https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/d983932b-e6f0-4472-9d0c-748b599caa6f)
 
 **Learnings:**
 
