@@ -15,7 +15,7 @@
 
 **Objectives of this project**
 
-1. Scraped and Analyse data to identify the most effective and popular homeopathic medicines.
+1. Scraped and analyzed data to identify the most effective and popular homeopathic medicines.
 
 2. Choose the best products based on customer preferences.
 
