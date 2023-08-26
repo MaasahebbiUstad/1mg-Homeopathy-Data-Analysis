@@ -1,7 +1,8 @@
 # 1mg-Homeopathy-Data-Analysis
 #Capstone Project
 
-![1mg](https://i.imgur.com/AN26BSR.jpg)
+<img src="https://i.imgur.com/AN26BSR.jpg" alt="1mg" width="700" height="300">
+
 
 (Group Project with Three members executed in Seven days.
 
