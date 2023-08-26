@@ -1,5 +1,5 @@
 # 1mg-Homeopathy-Data-Analysis
-#Capstone Project
+**Capstone Group Project: Analyzing Market Demand for Homeopathic Medicines and Medicine Brands**
 
 <img src="https://i.imgur.com/AN26BSR.jpg" alt="1mg" width="700" height="300">
 
