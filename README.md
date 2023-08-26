@@ -1,7 +1,7 @@
 # 1mg-Homeopathy-Data-Analysis
 #Capstone Project
 
-![1mg](https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/29792c90-56dd-4c9b-b47b-cc912948c3e9)
+![1mg](https://i.imgur.com/AN26BSR.jpg)
 
 (Group Project with Three members executed in Seven days.
 
