@@ -38,6 +38,33 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
     
    -  Striving to attain a sustainable competitive edge in the market through data-backed decision-making
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
+   -  
+## Data-driven Insights Gallery:
+     
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="800"/>
+</div>
+
+
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/ae45e19b-d2ff-4db1-bcf7-52d92bcbaed5"  height="350" width="800"/>
+</div>
+
+
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/cec943a0-37fb-4ab1-a720-2df074f03610"  height="350" width="800"/>
+</div>
+
+
+<div id="header" align="center">
+    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/58ef9ecb-8280-4294-b56a-bb74ad0eb214"  height="350" width="800"/>
+</div>
+
+
+<div id="header" align="center">
+    <img src="(https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="800"/>
+</div>
+
 
 ## Dashboard:
 
