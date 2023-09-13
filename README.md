@@ -70,6 +70,11 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 
 ![image](https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/d983932b-e6f0-4472-9d0c-748b599caa6f)
 
+## Challenges:
+
+Data Quality and Quantity: Ensuring the data scraped is accurate, comprehensive, and sufficient for meaningful analysis can be challenging.
+Data Privacy and Compliance: Adhering to data privacy regulations and ethical considerations when scraping and handling data is crucial.
+
  ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 
    **Web Scraping:**
