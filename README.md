@@ -74,9 +74,10 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 
    - Data Quality and Quantity: Ensuring the data scraped is accurate, comprehensive, and sufficient for meaningful analysis can be challenging
      
-   -  Data Privacy and Compliance: Adhering to data privacy regulations and ethical considerations when scraping and handling data is crucial
+   - Data Privacy and Compliance: Adhering to data privacy regulations and ethical considerations when scraping and handling data is crucial
 
-   -  Time Management: Effectively managing time and resources to meet project deadlines and goals can pose a significant challenge.
+   - Time Management: Effectively managing time and resources to meet project deadlines and goals can pose a significant challenge.
+ 
 
  ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 
