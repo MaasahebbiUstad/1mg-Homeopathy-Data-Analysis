@@ -9,7 +9,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 (Group Project with Three members executed in Seven days.
 
 
-##  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/9d23b2ed-5f82-4866-9560-e607f1ab2c10"  width="48" height="50"> Project Aim:
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Project Aim:
 
    - We undertook this project to meet the increasing demand for reliable homeopathic medicines in the market.
    
@@ -58,23 +58,24 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
    -   Effective time management techniques leading to optimized workflow and increased productivity
    -   Experience in team management, including coordination and leadership for achieving collective objectives.
 
-## Future Scope:
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/2f37bcc0-7ce5-4aa0-b4c5-dc824855d302" width="70" height="50"> Future Scope:
 
    **Advanced Data Analytics and Machine Learning:**
    
-   -   Leveraging advanced data analytics techniques, including machine learning, to enhance the accuracy of product recommendations and        predict customer preferences.
+   -   Leveraging advanced data analytics techniques, including machine learning, to enhance the accuracy of product recommendations and predict customer preferences.
 
    **Personalization and Customer Engagement:** 
    
-   -  Implementing personalized product recommendations and engagement strategies to cater to individual customer needs and foster stronger            customer relationships.
+   -  Implementing personalized product recommendations and engagement strategies to cater to individual customer needs and foster stronger customer relationships.
 
    **Quality Assurance and Regulatory Compliance:**
    
-   -  Strengthening quality assurance processes to ensure the safety and efficacy of recommended homeopathic medicines while maintaining         full compliance with healthcare                regulations and standards.
+   -  Strengthening quality assurance processes to ensure the safety and efficacy of recommended homeopathic medicines while maintaining full compliance with healthcare                
+      regulations and standards.
 
    **Market Expansion and Diversification:**
     
-   -  Exploring opportunities for expanding product offerings and entering new markets, potentially through diversification into related                healthcare segments.
+   -  Exploring opportunities for expanding product offerings and entering new markets, potentially through diversification into related healthcare segments.
 
    **Sustainability Initiatives and Eco-friendly Products:**
  
