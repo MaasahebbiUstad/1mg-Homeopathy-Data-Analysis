@@ -39,7 +39,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
    -  Striving to attain a sustainable competitive edge in the market through data-backed decision-making
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
    -  
-## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="98" height="58"> Data-driven Insights Gallery:
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="98" height="58">Data-driven Insights Gallery:
      
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="800"/>
@@ -57,7 +57,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 
 
 <div id="header" align="center">
-    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/58ef9ecb-8280-4294-b56a-bb74ad0eb214"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/c04c2256-97bc-41d5-8045-998d58f69f42"  height="350" width="800"/>
 </div>
 
 
