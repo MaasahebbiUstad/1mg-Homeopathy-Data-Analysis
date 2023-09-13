@@ -62,7 +62,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 
 
 <div id="header" align="center">
-    <img src="(https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="800"/>
+    <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="800"/>
 </div>
 
 
