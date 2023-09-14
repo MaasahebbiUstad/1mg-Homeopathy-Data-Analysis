@@ -86,7 +86,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
 
 ## Dashboard:
 
-![image](https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/d983932b-e6f0-4472-9d0c-748b599caa6f)
+<img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/9729e8a7-2f75-4312-8142-42f123a7345e" height="550" width="1100">
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48"> Challenges:
 
