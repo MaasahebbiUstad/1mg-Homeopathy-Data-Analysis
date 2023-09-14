@@ -3,10 +3,10 @@
 
 An innovative initiative in the domain of homeopathy, this project harnessed data-driven strategies to enhance the efficacy of medicines, streamline product recommendations, and elevate customer satisfaction. The endeavor focused on optimizing operational efficiency while upholding uncompromising standards of quality and performance.
 
-<img src="https://i.imgur.com/AN26BSR.jpg" alt="1mg" width="700" height="300">
-
-
-(Group Project with Three members executed in Seven days.
+Group Project with Three members executed in Seven days.
+<div align="center">
+  <img src="https://i.imgur.com/AN26BSR.jpg" alt="1mg" width="800" height="300">
+</div>
 
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Project Aim:
@@ -39,7 +39,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
    -  Striving to attain a sustainable competitive edge in the market through data-backed decision-making
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
    -  
-## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="98" height="58">Data-driven Insights Gallery:
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="800"/>
@@ -82,7 +82,7 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
    Bhargaa Pytholab, and Fourrts India Laboratories all stand out as popular brands, each garnering an impressive customer rating of 4.6 out of 5. This data underscores their strong 
    reputation for customer satisfaction
 -  Following closely in popularity are Dr. Reckweg & Company and SBL Pvt Ltd, with notable ratings of 4.52.
-<br>
+
 
 ## Dashboard:
 
