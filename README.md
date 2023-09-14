@@ -40,26 +40,39 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
    -  
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="98" height="58">Data-driven Insights Gallery:
-     
+
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="800"/>
 </div>
 
+- Upon a careful examination of the provided chart, it becomes apparent that SBL Pvt Ltd stands out as the predominant brand in terms of popularity, with Dr. Reckweg & Company and 
+  Bakson Drugs & Pharmaceuticals Pvt. Ltd.
+<br>
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/ae45e19b-d2ff-4db1-bcf7-52d92bcbaed5"  height="350" width="800"/>
 </div>
 
-
+- The chart reveals that medicines addressing digestion-related issues have the highest count, followed by those for skin and bone health. In contrast, medicines for hair and joint 
+  health are relatively scarce. This data suggests a significant focus on digestive health and potential opportunities for innovation in the hair and joint health sectors.
+<br>
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/cec943a0-37fb-4ab1-a720-2df074f03610"  height="350" width="800"/>
 </div>
 
+- Based on the chart depicting brand versus average price, it is apparent that Lord's Homeopathic Laboratory Pvt Ltd commands the highest average price, with Adven Biotech Pvt Ltd        and Bakson's Homeopathy following closely behind in terms of pricing. This data underscores the price positioning within the market, highlighting Lord's Homeopathic Laboratory Pvt 
+  Ltd as a premium brand. 
+<br>
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/c04c2256-97bc-41d5-8045-998d58f69f42"  height="350" width="800"/>
 </div>
 
+-  The chart comparing customer ratings based on the price of medicine reveals a noteworthy pattern. In the price range between 130 to 185, medicines consistently receive the highest 
+   average rating of 4.8 out of 5, indicating strong customer satisfaction within this price bracket. Furthermore, in the slightly lower price range of 90 to 130, medicines still 
+   maintain a commendable rating of 4.7.
+<br>
+  
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="800"/>
