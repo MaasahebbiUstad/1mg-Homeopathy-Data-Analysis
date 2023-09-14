@@ -78,6 +78,11 @@ An innovative initiative in the domain of homeopathy, this project harnessed dat
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="800"/>
 </div>
 
+-  The donut chart representing customer ratings by brand reveals insightful data. Notably, Lords Homeopathic Laboratory, Bjain Pharmaceuticals Pvt Ltd, Similia Homeo Laboratory, 
+   Bhargaa Pytholab, and Fourrts India Laboratories all stand out as popular brands, each garnering an impressive customer rating of 4.6 out of 5. This data underscores their strong 
+   reputation for customer satisfaction
+-  Following closely in popularity are Dr. Reckweg & Company and SBL Pvt Ltd, with notable ratings of 4.52.
+<br>
 
 ## Dashboard:
 
