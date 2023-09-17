@@ -38,7 +38,7 @@ Group Project with Three members executed in Seven days.
     
    -  Striving to attain a sustainable competitive edge in the market through data-backed decision-making
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
-   -  
+      
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
 
 <div id="header" align="center">
