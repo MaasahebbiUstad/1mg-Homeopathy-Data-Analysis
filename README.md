@@ -144,11 +144,9 @@ Group Project with Three members executed in Seven days.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48"> Challenges:
 
-   - Data Quality and Quantity: Ensuring the data scraped is accurate, comprehensive, and sufficient for meaningful analysis can be challenging
-     
-   - Data Privacy and Compliance: Adhering to data privacy regulations and ethical considerations when scraping and handling data is crucial
-
-   - Time Management: Effectively managing time and resources to meet project deadlines and goals can pose a significant challenge.
+   - Data Quality and Quantity: Ensuring the data scraped is accurate, comprehensive, and sufficient for meaningful analysis
+    
+   - Time Management: Effectively managing time and resources to meet project deadlines and goals was pose a significant challenge.
  
 
  ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
