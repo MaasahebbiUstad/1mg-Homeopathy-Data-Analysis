@@ -65,7 +65,7 @@ Group Project with Three members executed in Seven days.
   -  Utilized both Microsoft Excel and Python for data cleaning and automation, harnessing Excel's ease of use and versatility alongside Python's scripting capabilities. This approach       ensured efficiency, consistency, and thorough data preparation with quality assurance.
      
 
-## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
+## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="700"/>
