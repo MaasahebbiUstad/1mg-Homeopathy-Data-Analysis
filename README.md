@@ -48,10 +48,10 @@ Group Project with Three members executed in Seven days.
 
    - **Data Cleaning Steps:**
     
-     **Handling Missing Values:** To address missing data, a systematic approach was adopted. Missing values in numerical features were replaced with appropriate central tendency             measures such as the mean, median, or mode, depending on the nature of the data. For categorical variables, missing values were handled by selecting the most frequent category,         ensuring minimal disruption to the dataset's integrity.
+     **Handling Missing Values:** To address missing data, a systematic approach was adopted. Missing values in numerical features were replaced with appropriate central tendency measures such as the mean,        median, or mode, depending on the nature of the data. For categorical variables, missing values were handled by selecting the most frequent category,ensuring minimal disruption to the dataset's              integrity.
 
      **Inconsistency Removal:** To enhance data consistency and accuracy, Excel was utilized to identify and rectify any inconsistencies within the dataset. This involved scrutinizing 
-      data entries for discrepancies, typographical errors, or inconsistencies in formatting and unit scales. Inconsistencies were systematically corrected to ensure uniformity and           reliability.
+      data entries for discrepancies, typographical errors, or inconsistencies in formatting and unit scales. Inconsistencies were systematically corrected to ensure uniformity and reliability.
 
      **Outlier Handling:** Outliers, if present, were examined and addressed using appropriate techniques. Extreme values that could potentially distort analysis outcomes were either 
       corrected or, if necessary, flagged for further investigation.
@@ -62,7 +62,7 @@ Group Project with Three members executed in Seven days.
   <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
 </p>
 
-  -  Utilized both Microsoft Excel and Python for data cleaning and automation, harnessing Excel's ease of use and versatility alongside Python's scripting capabilities. This approach       ensured efficiency, consistency, and thorough data preparation with quality assurance.
+  -  Utilized both Microsoft Excel and Python for data cleaning and automation, harnessing Excel's ease of use and versatility alongside Python's scripting capabilities. This approach ensured efficiency,         consistency, and thorough data preparation with quality assurance.
      
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
@@ -86,7 +86,7 @@ Group Project with Three members executed in Seven days.
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/cec943a0-37fb-4ab1-a720-2df074f03610"  height="350" width="700"/>
 </div>
 
-- Based on the chart depicting brand versus average price, it is apparent that Lord's Homeopathic Laboratory Pvt Ltd commands the highest average price, with Adven Biotech Pvt Ltd        and Bakson's Homeopathy following closely behind in terms of pricing. This data underscores the price positioning within the market, highlighting Lord's Homeopathic Laboratory Pvt 
+- Based on the chart depicting brand versus average price, it is apparent that Lord's Homeopathic Laboratory Pvt Ltd commands the highest average price, with Adven Biotech Pvt Ltd and Bakson's Homeopathy      following closely behind in terms of pricing. This data underscores the price positioning within the market, highlighting Lord's Homeopathic Laboratory Pvt 
   Ltd as a premium brand. 
 <br>
 
