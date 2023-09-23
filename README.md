@@ -11,12 +11,16 @@ Group Project with Three members executed in Seven days.
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Project Aim:
 
-   - We undertook this project to meet the increasing demand for reliable homeopathic medicines in the market.
-   
-   - Our goal is to provide high-quality and genuine products currently lacking or unavailable.
-   
-   - We aim to support alternative healthcare options and cater to individuals seeking holistic remedies.
+## Problem Statement:
 
+## Key Issues:
+
+  - **Market Uncertainty:** Individuals interested in opening new homeopathy stores face challenges in identifying which homeopathic medicines and brands are currently popular and in 
+      demand among consumers.
+
+  - **Risk of Poor Product Selection:** Without access to information about popular products and brands, entrepreneurs may make uninformed choices, potentially resulting in slow 
+      business growth or product inefficacy.
+    
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
 
    **Data Analysis and Product Selection:**
