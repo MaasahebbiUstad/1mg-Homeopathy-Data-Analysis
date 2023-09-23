@@ -40,6 +40,25 @@ Group Project with Three members executed in Seven days.
     
    -  Striving to attain a sustainable competitive edge in the market through data-backed decision-making
    -  Aim to achieve consistent growth and market leadership by aligning strategies with long-term sustainability goals.
+
+   ## Data Cleaning and Preprocessing:
+   - **Data Source:**
+    
+      The dataset used for this analysis was sourced from 1mg Homeopathy, a reputable provider of homeopathic medicines and health products.
+
+   - **Data Cleaning Steps:**
+    
+     **Handling Missing Values:** To address missing data, a systematic approach was adopted. Missing values in numerical features were replaced with appropriate central tendency             measures such as the mean, median, or mode, depending on the nature of the data. For categorical variables, missing values were handled by selecting the most frequent category,         ensuring minimal disruption to the dataset's integrity.
+
+     **Inconsistency Removal:** To enhance data consistency and accuracy, Excel was utilized to identify and rectify any inconsistencies within the dataset. This involved scrutinizing 
+      data entries for discrepancies, typographical errors, or inconsistencies in formatting and unit scales. Inconsistencies were systematically corrected to ensure uniformity and           reliability.
+
+     **Outlier Handling:** Outliers, if present, were examined and addressed using appropriate techniques. Extreme values that could potentially distort analysis outcomes were either 
+      corrected or, if necessary, flagged for further investigation.
+     
+     ## Tools Used:
+       We used Microsoft Excel for its ease of use and versatility in data cleaning. Python scripting was also employed to automate tasks, ensuring efficiency and                              consistency,resulting in thorough data preparation and quality assurance.
+
       
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
 
