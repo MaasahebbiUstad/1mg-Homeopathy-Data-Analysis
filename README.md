@@ -56,10 +56,15 @@ Group Project with Three members executed in Seven days.
      **Outlier Handling:** Outliers, if present, were examined and addressed using appropriate techniques. Extreme values that could potentially distort analysis outcomes were either 
       corrected or, if necessary, flagged for further investigation.
      
-     ## Tools Used:
-       We used Microsoft Excel for its ease of use and versatility in data cleaning. Python scripting was also employed to automate tasks, ensuring efficiency and                              consistency,resulting in thorough data preparation and quality assurance.
+   ## Tools employed:
+<p float="left">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/065f1ca9-2b47-47b9-88b9-62a2fce746be" alt="Excel GIF" width="60" height="58">
+  <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/7fc2a7c8-a736-4736-90cd-28e314aa31e6" alt="Python GIF" width="60" height="58">
+</p>
 
-      
+  Utilized both Microsoft Excel and Python for data cleaning and automation, harnessing Excel's ease of use and versatility alongside Python's scripting capabilities. This approach       ensured efficiency, consistency, and thorough data preparation with quality assurance.
+     
+
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven Insights Gallery:
 
 <div id="header" align="center">
