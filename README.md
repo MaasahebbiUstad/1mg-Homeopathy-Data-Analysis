@@ -67,6 +67,7 @@ Group Project with Three members executed in Seven days.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/1a839dfc-2edc-4981-bbed-fcd9b6912aba" width="50" height="48">Data-driven EDA Insights Gallery:
 
+### Most Popular Brands
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/567cd9bb-67c8-4f75-b992-c111384c6516"  height="350" width="700"/>
 </div>
@@ -75,6 +76,7 @@ Group Project with Three members executed in Seven days.
   Bakson Drugs & Pharmaceuticals Pvt. Ltd.
 <br>
 
+### Medication Distribution Analysis by Benefit Categories
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/ae45e19b-d2ff-4db1-bcf7-52d92bcbaed5"  height="350" width="700"/>
 </div>
@@ -82,6 +84,8 @@ Group Project with Three members executed in Seven days.
 - The chart reveals that medicines addressing digestion-related issues have the highest count, followed by those for skin and bone health. In contrast, medicines for hair and joint 
   health are relatively scarce. This data suggests a significant focus on digestive health and potential opportunities for innovation in the hair and joint health sectors.
 <br>
+
+### Brand-wise Medication Price Analysis
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/cec943a0-37fb-4ab1-a720-2df074f03610"  height="350" width="700"/>
 </div>
@@ -90,6 +94,7 @@ Group Project with Three members executed in Seven days.
   Ltd as a premium brand. 
 <br>
 
+### Price-Dependent Medication Ratings Analysis
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/c04c2256-97bc-41d5-8045-998d58f69f42"  height="350" width="700"/>
 </div>
@@ -98,7 +103,8 @@ Group Project with Three members executed in Seven days.
    average rating of 4.8 out of 5, indicating strong customer satisfaction within this price bracket. Furthermore, in the slightly lower price range of 90 to 130, medicines still 
    maintain a commendable rating of 4.7.
 <br>
-  
+
+### Brand-wise Customer Rating Analysis
 
 <div id="header" align="center">
     <img src="https://github.com/MaasahebbiUstad/Maasahebbi_Ustad/assets/137813961/96d8229e-b754-4263-ab1e-b8bc9da51092"  height="350" width="700"/>
