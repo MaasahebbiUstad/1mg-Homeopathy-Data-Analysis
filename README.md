@@ -124,23 +124,23 @@ Group Project with Three members executed in Seven days.
 
 - **Brand Popularity Analysis:**
 
-  SBL Pvt Ltd emerges as the most popular brand, closely followed by Dr. Reckweg & Company and Bakson Drugs & Pharmaceuticals Pvt. Ltd., providing valuable insights for market entry      and product selection.
+  SBL Pvt Ltd emerges as the most popular brand, closely followed by Dr. Reckweg & Company and Bakson Drugs & Pharmaceuticals Pvt. Ltd., providing valuable insights for market entry and product selection.
 
 - **Market Focus on Health Categories:**
 
-  The market exhibits a strong demand for digestion-related medicines, while there's a notable scarcity of remedies for hair and joint health. This implies potential market saturation    in digestion and an opportunity for innovation in the latter health categories.
+  The market exhibits a strong demand for digestion-related medicines, while there's a notable scarcity of remedies for hair and joint health. This implies potential market saturation in digestion and an      opportunity for innovation in the latter health categories.
 
 - **Brand Pricing Positioning:**
 
-  Lord's Homeopathic Laboratory Pvt Ltd is positioned as a premium brand with the highest average price, followed closely by Adven Biotech Pvt Ltd and Bakson's Homeopathy. This pricing   hierarchy offers significant insights into brand positioning within the market.
+  Lord's Homeopathic Laboratory Pvt Ltd is positioned as a premium brand with the highest average price, followed closely by Adven Biotech Pvt Ltd and Bakson's Homeopathy. This pricing   hierarchy offers      significant insights into brand positioning within the market.
 
 - **Customer Satisfaction Ratings:**
 
-  Medicines priced between 130 to 185 consistently receive the highest customer ratings, averaging 4.8 out of 5, reflecting strong customer satisfaction. Meanwhile, medicines in the 90   to 130 price range maintain a commendable rating of 4.7, highlighting a favorable balance between affordability and quality.
+  Medicines priced between 130 to 185 consistently receive the highest customer ratings, averaging 4.8 out of 5, reflecting strong customer satisfaction. Meanwhile, medicines in the 90 to 130 price range      maintain a commendable rating of 4.7, highlighting a favorable balance between affordability and quality.
 
 - **Brand Reputation for Customer Satisfaction:**
 
-  Brands such as Lords Homeopathic Laboratory, Bjain Pharmaceuticals Pvt Ltd, Similia Homeo Laboratory, Bhargaa Pytholab, and Fourrts India Laboratories stand out with impressive         customer ratings of 4.6 out of 5, underscoring their strong reputation for customer satisfaction. Dr. Reckweg & Company and SBL Pvt Ltd also maintain notable ratings of 4.52,           positioning them closely in terms of popularity.
+  Brands such as Lords Homeopathic Laboratory, Bjain Pharmaceuticals Pvt Ltd, Similia Homeo Laboratory, Bhargaa Pytholab, and Fourrts India Laboratories stand out with impressive customer ratings of 4.6 out   of 5, underscoring their strong reputation for customer satisfaction. Dr. Reckweg & Company and SBL Pvt Ltd also maintain notable ratings of 4.52, positioning them closely in terms of popularity.
 
 ## <img src="https://github.com/MaasahebbiUstad/1mg-Homeopathy-Data-Analysis/assets/137813961/0ce17a56-cce8-47d5-a1ed-232355a3770b" width="48" height="48"> Challenges:
 
