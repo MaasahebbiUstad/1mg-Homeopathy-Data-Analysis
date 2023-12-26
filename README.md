@@ -1,5 +1,6 @@
 # 1mg-Homeopathy-Data-Analysis
- Capstone Group Project: Analyzing Market Demand for Homeopathic Medicines and Medicine Brands 
+
+**Capstone Group Project: Analyzing Market Demand for Homeopathic Medicines and Medicine Brands** 
 
 An innovative initiative in the domain of homeopathy, this project harnessed data-driven strategies to enhance the efficacy of medicines, streamline product recommendations, and elevate customer satisfaction. The endeavor focused on optimizing operational efficiency while upholding uncompromising standards of quality and performance.
 
